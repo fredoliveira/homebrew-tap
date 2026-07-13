@@ -13,19 +13,19 @@ class SeventeenlandsRust < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.2/seventeenlands-rust-aarch64-apple-darwin.tar.gz"
-      sha256 "4f115a0cf4edebd19b307f89e06cabd686e1e4da3864cfbf017cf36671634d54"
+      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.3/seventeenlands-rust-aarch64-apple-darwin.tar.gz"
+      sha256 "5edee1bea5ef56f2537cd2f48d3dec0e644496dd8c4a4841c85dd702c4436a7a"
     end
     on_intel do
-      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.2/seventeenlands-rust-x86_64-apple-darwin.tar.gz"
-      sha256 "b1c05e2e78f0134e29492e3d31411426cfb36aecf7ab7dda1b19056ad9c89fc1"
+      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.3/seventeenlands-rust-x86_64-apple-darwin.tar.gz"
+      sha256 "d9b343f6e8fa53dd19019ffd1483b14e383a1fa2e3d54ea2996be87e6d4fe153"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.2/seventeenlands-rust-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "339b9f442d5ed06c4189e16cb0494d0e5e500164c0aa1821e5fff26fff12ad9d"
+      url "https://github.com/fredoliveira/17lands-rust/releases/download/v0.1.3/seventeenlands-rust-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "1c500f36153b6719f15324683c6935f96d9670b88543c0f66e9260801f0f7cd6"
     end
   end
 
