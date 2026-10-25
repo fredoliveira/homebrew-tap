@@ -12,8 +12,8 @@
 # right-click -> Open, or clear the quarantine attribute:
 #     xattr -dr com.apple.quarantine "/Applications/Recall.app"
 cask "recall-desktop" do
-  version "0.3.0"
-  sha256 "79727b1eba3e4a9cd9af3f654e38a2ba4806b5ae977bd8aeaabf079143bb1b09"
+  version "0.3.1"
+  sha256 "5a5c7f5c2812bf1ba62893c3bb74cef1322368419a706d7bc0f08b7ea0dfcb35"
 
   url "https://github.com/fredoliveira/recall/releases/download/v#{version}/Recall-universal.dmg"
   name "Recall"
