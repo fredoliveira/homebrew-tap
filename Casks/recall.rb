@@ -5,10 +5,10 @@
 #
 # Users install with:
 #
-#     brew install --cask fredoliveira/tap/recall-desktop
+#     brew install --cask fredoliveira/tap/recall
 #
 # The app is signed with a Developer ID and notarized by Apple (release-desktop.yml).
-cask "recall-desktop" do
+cask "recall" do
   version "0.4.1"
   sha256 "416880795f85ddfa8cef9c8f2e257ce6eeb166672aad503e62b88c89dc7f0fd8"
 
