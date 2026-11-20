@@ -9,8 +9,8 @@
 #
 # The app is signed with a Developer ID and notarized by Apple (release-desktop.yml).
 cask "recall" do
-  version "0.4.1"
-  sha256 "416880795f85ddfa8cef9c8f2e257ce6eeb166672aad503e62b88c89dc7f0fd8"
+  version "0.5.0"
+  sha256 "50d956b3788a0f79611634321a4d71231d80d5d54a95a5649400d6602d3a888c"
 
   url "https://github.com/fredoliveira/recall/releases/download/v#{version}/Recall-universal.dmg"
   name "Recall"
