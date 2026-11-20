@@ -13,19 +13,19 @@ class RecallCli < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/fredoliveira/recall/releases/download/v0.4.1/recall-aarch64-apple-darwin.tar.gz"
-      sha256 "16b6c9a2d31fc95d2c2549ef5b7d7ab2929acbb331a4037743708bd08eca64f6"
+      url "https://github.com/fredoliveira/recall/releases/download/v0.5.0/recall-aarch64-apple-darwin.tar.gz"
+      sha256 "e436e62585afa94ffc973e7bbfac8c855caf2b95a24bd481849ace8282ad8f5b"
     end
     on_intel do
-      url "https://github.com/fredoliveira/recall/releases/download/v0.4.1/recall-x86_64-apple-darwin.tar.gz"
-      sha256 "6d460fef4ad181708ff08906cfb025998623ec789588eec1561b3e64491b765f"
+      url "https://github.com/fredoliveira/recall/releases/download/v0.5.0/recall-x86_64-apple-darwin.tar.gz"
+      sha256 "a810a0539811552f8afc23b19265d4ef06030e0b074d37b46e73c4aacaef8434"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/fredoliveira/recall/releases/download/v0.4.1/recall-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "aa2cc40807f9f56544dacd157f88c1acd431277268aadb4860895939a98f7b42"
+      url "https://github.com/fredoliveira/recall/releases/download/v0.5.0/recall-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "19e878f6e76980151750c57280e8f3fed151dd823e62a5a414fdc5b6f1d2b88d"
     end
   end
 
